@@ -12,7 +12,7 @@ Welcome to **Surpiepol**, a fun and fast-paced multiplayer game developed with *
 
 You must be on **Windows 10/11**
 
-- Download the latest [Release]("https://github.com/Pangauwin/Surpiepol/releases")
+- Download the latest [Release](https://github.com/Pangauwin/Surpiepol/releases)
 - Uncompress
 - Double click the .exe file
 - That's it !
